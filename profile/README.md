@@ -1,6 +1,6 @@
 <h3 align="center">
   <img
-    src="img/logo_white.png"
+    src="img/logo_white-removebg-preview.png"
     height="110"
   />
  <div>
