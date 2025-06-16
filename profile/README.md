@@ -6,7 +6,7 @@
  <div>
   <p align="center">
     <a
-    href="https://twitter.com/langchainai">
+    href="https://github.com/CLRK-Agents/Research-Development.git">
         <img src="https://img.shields.io/github/stars/:CLRK-Agents">
     </a>
     <a href="https://www.linkedin.com/in/clrkagents/">
@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/followers/:CLRK-Agents" />
     </a>
     <a href="https://app.codecov.io/gh/CLRK-Agents/Tests">
-        <img src="https://img.shields.io/codecov/c/:vcsName/:CLRK-Agents/:Tests">
+        <img src="https://img.shields.io/codecov/c/:github/:CLRK-Agents/:Tests">
     </a>
   </p>
 </div>
@@ -35,5 +35,12 @@ Services Principaux:
     <p>Aperçu visuel de la couverture</p>
     <p align="center">
         <img src="https://codecov.io/gh/CLRK-Agents/Tests/graphs/sunburst.svg?token=JGAL32DQBK">
+    </p>
+</div>
+
+<div>
+    <p>CLRK-Agents in LangGraph Studio</p>
+    <p align="center">
+        <img src="./img/CLRK-AgentsinLangGraphStudio-ezgif.com-video-to-gif-converter.gif">
     </p>
 </div>
