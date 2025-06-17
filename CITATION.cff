@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, veuillez citer ce dépôt comme suit:"
+title: "CLRK-Agents: Client Lead Recruitment and Voice, autonomous AI"
+version: "0.1.0"
+doi: 10.5281/zenodo.1234567
+authors:
+  - family-names: CLRK
+    given-names: CLRK-Agents
+    affiliation: École Nationale d’Informatique et d’Analyse des Données
+date-released: 2025-17-06
+license: MIT
+repository: https://github.com/CLRK-Agents
+url: https://github.com/CLRK-Agents
