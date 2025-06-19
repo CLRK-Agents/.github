@@ -12,8 +12,8 @@
     <a href="https://www.linkedin.com/in/clrkagents/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/CLRK-Agents/backend_AI/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/CLRK-Agents/backend_AI" />
+    <a href="https://github.com/CLRK-Agents/.github/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/CLRK-Agents/.github" />
     </a>
     <a href="https://app.codecov.io/gh/CLRK-Agents/Tests">
         <img src="https://codecov.io/gh/CLRK-Agents/Tests/branch/main/graph/badge.svg?token=JGAL32DQBK">
