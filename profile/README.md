@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/followers/:CLRK-Agents" />
     </a>
     <a href="https://app.codecov.io/gh/CLRK-Agents/Tests">
-        <img src="https://img.shields.io/codecov/c/:github/:CLRK-Agents/:Tests">
+        <img src="https://codecov.io/gh/CLRK-Agents/Tests/branch/main/graph/badge.svg?token=JGAL32DQBK">
     </a>
   </p>
 </div>
