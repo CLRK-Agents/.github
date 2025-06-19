@@ -5,9 +5,8 @@
   />
  <div>
   <p align="center">
-    <a
-    href="https://github.com/CLRK-Agents/Research-Development.git">
-        <img src="https://img.shields.io/github/stars/:CLRK-Agents">
+    <a href="https://github.com/CLRK-Agents/.github/discussions" alt="Discussions">
+        <img src="https://img.shields.io/github/discussions/CLRK-Agents/.github" />
     </a>
     <a href="https://www.linkedin.com/in/clrkagents/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
